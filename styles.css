@@ -380,7 +380,7 @@ header h1::after {
 #contact h1 {
   font-size: 2.5rem;
   font-weight: bold;
-  margin-bottom: 2rem;
+  margin-bottom: 0.8rem;
   color: var(--color-text);
 }
 
