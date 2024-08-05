@@ -70,6 +70,8 @@ header h1::after {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
+  margin-bottom: 1rem;
+
 }
 
 #navbar ul li {
